@@ -1,6 +1,6 @@
 # Main text
 Testni repozitorij
 
-##2nd text
+## 2nd text
 
 
